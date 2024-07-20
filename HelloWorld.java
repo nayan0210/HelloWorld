@@ -7,7 +7,7 @@ public class HelloWorld {
         int d=sc.nextInt();
         int sum=c+d;
         System.out.println(sum);
-        System.out.println("hiii helloo");
+        System.out.println("hiii helloo1");
 
     }
 }
